@@ -1,0 +1,5 @@
+Git es un sistema de control de versiones que permiten llevar un registro de los cambioss y proyects de software.
+ Ayuda a varios desarrolladores a trabjar al mismo tiempo sinsobrescribir el trabajo de otro.
+ Permite ver el historial de modificaciones y volver a versiones anteriores si es necesario.
+ Se usa principalmente desde la linea de comandos como git init, git add, git commit, entre otros.
+ Es muy popular y suele usarse junto con plataformas como GitHub para colaborar en linea.
