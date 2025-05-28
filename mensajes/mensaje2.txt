@@ -1,0 +1,3 @@
+Una aplicación es un programa diseñado para realizar tareas específicas en un dispositivo.
+ Puede ser móvil, web o de escritorio, según dónde se utilice.
+ Las aplicaciones facilitan actividades como comunicarse, aprender, trabajar o entretenerse.
