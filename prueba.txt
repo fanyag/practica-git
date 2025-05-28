@@ -3,3 +3,6 @@ Git es un sistema de control de versiones que permiten llevar un registro de los
  Permite ver el historial de modificaciones y volver a versiones anteriores si es necesario.
  Se usa principalmente desde la linea de comandos como git init, git add, git commit, entre otros.
  Es muy popular y suele usarse junto con plataformas como GitHub para colaborar en linea.
+También permite crear ramas (branches) para trabajar en nuevas funciones sin afectar el código principal.
+ Git es distribuido, lo que significa que cada copia del repositorio contiene todo el historial del proyecto.
+ Gracias a Git, el trabajo en equipo en proyectos grandes es más organizado y seguro.
