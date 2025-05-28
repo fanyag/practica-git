@@ -1,0 +1,5 @@
+[200~El desarrollo de software es el proceso de crear programas y aplicaciones que resuelven necesidades o problemas.
+ Incluye etapas como el análisis, diseño, programación, pruebas y mantenimiento.
+ [200~Se puede realizar de forma individual o en equipo, usando distintas metodologías.
+ Requiere habilidades técnicas y una buena planificación para asegurar calidad y funcionalidad.
+ Es clave en la tecnología actual, ya que impulsa soluciones digitales en todos los ámbitos.
